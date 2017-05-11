@@ -4,7 +4,7 @@
 
 <img align="right" height="260" src="https://grommet.github.io/img/grommet.svg">
 
-### Documentation
+### Documentation  
 
 Visit the [grommet.github.io](https://grommet.github.io/) website for more information.
 
