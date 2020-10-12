@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:coveo="http://www.coveo.com/schemas/metadata" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+   <url>
+      <loc>https://hc9w01648.itcs.hpecorp.net/decisiontree/getproblemnodes/21</loc>
+      <lastmod>2017-11-28</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+      <modificationdate>2017-11-28</modificationdate>
+         <dtproblemnodeid><![CDATA[21]]></dtproblemnodeid>
+         <dtproblemnodename><![CDATA[GH SOPs]]></dtproblemnodename>
+         <dtnodetypeid><![CDATA[5]]></dtnodetypeid>
+         <dtnodetypename><![CDATA[Problem]]></dtnodetypename>
+         <dtnodetypecode><![CDATA[PROBLEM]]></dtnodetypecode>
+         <dtpathtonode><![CDATA[This is a test -&gt; AWE -&gt; Accounts -&gt; Enhanced -&gt; GreyHound -&gt; GH SOPs]]></dtpathtonode>
+         <dtnodestatusid><![CDATA[5]]></dtnodestatusid>
+         <dtnodestatusname><![CDATA[Reviewed]]></dtnodestatusname>
+         <dtnotestatuscode><![CDATA[R]]></dtnotestatuscode>
+         <dtisrestricted><![CDATA[NO]]></dtisrestricted>
+         <dtdaystoexpiry><![CDATA[0]]></dtdaystoexpiry>
+         <dttotalnodesunder><![CDATA[8]]></dttotalnodesunder>
+         <dtrootnodeid><![CDATA[2]]></dtrootnodeid>
+         <dtrootnodename><![CDATA[AWE]]></dtrootnodename>
+         <dtisrootsecured><![CDATA[YES]]></dtisrootsecured>
+         <dtispublic><![CDATA[NO]]></dtispublic>
+         <dtmainnodeid><![CDATA[8]]></dtmainnodeid>
+         <dtmainnodename><![CDATA[Accounts]]></dtmainnodename>
+         <dtcreateddate><![CDATA[2017-11-28T17:41:53.593]]></dtcreateddate>
+         <dtcreatedbyempid><![CDATA[999999]]></dtcreatedbyempid>
+         <dtcreatedbyname><![CDATA[Joe Doe]]></dtcreatedbyname>
+         <dtcreatedbemail><![CDATA[joe.doe@jdoe.com]]></dtcreatedbemail>
+         <dtcreatprimaryrole><![CDATA[Business Process Engineering/Quality]]></dtcreatprimaryrole>
+         <dtcreatormgrempid><![CDATA[999999]]></dtcreatormgrempid>
+         <dtcreatormgrname><![CDATA[Joe Doe2]]></dtcreatormgrname>
+         <dtcreatormgrname2><![CDATA[Joe Doe2]]></dtcreatormgrname2>
+         <dtcreatormgremail><![CDATA[joe.doe2@jdoe.com]]></dtcreatormgremail>
+      </coveo:metadata>
+   </url>
+   <url>
+      <loc>https://hc9w01648.itcs.hpecorp.net/decisiontree/getproblemnodes/128710</loc>
+      <lastmod>2020-08-05</lastmod>
+      <priority>0.5</priority>
+      <coveo:metadata>
+      <modificationdate>2020-08-05</modificationdate>
+         <dtproblemnodeid><![CDATA[128710]]></dtproblemnodeid>
+         <dtproblemnodename><![CDATA[5.20.01 after flm firmware upgrade standby composer not joining cluster]]></dtproblemnodename>
+         <dtnodetypeid><![CDATA[5]]></dtnodetypeid>
+         <dtnodetypename><![CDATA[Problem]]></dtnodetypename>
+         <dtnodetypecode><![CDATA[PROBLEM]]></dtnodetypecode>
+         <dtpathtonode><![CDATA[Decision Root -&gt; Compute -&gt; Synergy -&gt; Synergy Composer / OneView -&gt; 5.20.01 after flm firmware upgrade standby composer not joining cluster]]></dtpathtonode>
+         <dtnodestatusid><![CDATA[5]]></dtnodestatusid>
+         <dtnodestatusname><![CDATA[Reviewed]]></dtnodestatusname>
+         <dtnotestatuscode><![CDATA[R]]></dtnotestatuscode>
+         <dtisrestricted><![CDATA[NO]]></dtisrestricted>
+         <dtnextrivewdate><![CDATA[2021-04-14T00:00:00]]></dtnextrivewdate>
+         <dtdaystoexpiry><![CDATA[205]]></dtdaystoexpiry>
+         <dttotalnodesunder><![CDATA[5]]></dttotalnodesunder>
+         <dtrootnodeid><![CDATA[415]]></dtrootnodeid>
+         <dtrootnodename><![CDATA[Compute]]></dtrootnodename>
+         <dtisrootsecured><![CDATA[NO]]></dtisrootsecured>
+         <dtispublic><![CDATA[NO]]></dtispublic>
+         <dtmainnodeid><![CDATA[1691]]></dtmainnodeid>
+         <dtmainnodename><![CDATA[Synergy]]></dtmainnodename>
+         <dtcreateddate><![CDATA[2020-08-04T13:05:01.443]]></dtcreateddate>
+         <dtcreatedbyempid><![CDATA[999999]]></dtcreatedbyempid>
+         <dtcreatedbyname><![CDATA[JOe Doe3]]></dtcreatedbyname>
+         <dtcreatedbemail><![CDATA[joe.doe3@jdoe.com]]></dtcreatedbemail>
+         <dtcreatprimaryrole><![CDATA[L2 Support]]></dtcreatprimaryrole>
+         <dtcreatormgrempid><![CDATA[999999]]></dtcreatormgrempid>
+         <dtcreatormgrname><![CDATA[Joe Doe2]]></dtcreatormgrname>
+         <dtcreatormgrname2><![CDATA[JOe Do2]]></dtcreatormgrname2>
+         <dtcreatormgremail><![CDATA[joe.doe@jdoe.com]]></dtcreatormgremail>
+         <dtmodifieddate><![CDATA[2020-08-05T09:05:39.420]]></dtmodifieddate>
+         <dtmodifiedbyempid><![CDATA[99999]]></dtmodifiedbyempid>
+         <dtmodifiedbyname><![CDATA[Joe Doe3]]></dtmodifiedbyname>
+         <dtmodifiedbyemail><![CDATA[joe.doe@jdoe.com]]></dtmodifiedbyemail>
+         <dtmodiferprimaryrole><![CDATA[L2 Support]]></dtmodiferprimaryrole>
+         <dtmodifiermgrname><![CDATA[Joe Doe2]]></dtmodifiermgrname>
+         <dtsubmittedforreviewdate><![CDATA[2020-08-08T14:32:57.737]]></dtsubmittedforreviewdate>
+         <dtsubmittedforreviewbyempid><![CDATA[99999]]></dtsubmittedforreviewbyempid>
+         <dtsubmittedforreviewbyname><![CDATA[Joe Doe3]]></dtsubmittedforreviewbyname>
+         <dtsubmittedforreviewbyemail><![CDATA[joe.doe@jdoe.com]]></dtsubmittedforreviewbyemail>
+         <dtrevieweddate><![CDATA[2020-08-08T14:34:01.247]]></dtrevieweddate>
+         <dtreviewedbyempid><![CDATA[0009999]]></dtreviewedbyempid>
+         <dtreviewedbyname><![CDATA[Joe Doe4]]></dtreviewedbyname>
+         <dtreviewedbyemail><![CDATA[joe.doe@jdoe.com]]></dtreviewedbyemail>
+         <dtreviewerprimaryrold><![CDATA[L2 Support]]></dtreviewerprimaryrold>
+         <dtreviewermgrname><![CDATA[Joe Doe3]]></dtreviewermgrname>
+         <dtreturnedformodificationdate><![CDATA[2020-08-05T09:03:37.747]]></dtreturnedformodificationdate>
+         <dtreturnedformodificationbyempid><![CDATA[99999]]></dtreturnedformodificationbyempid>
+         <dtreturnedformodificationbyname><![CDATA[Joe Doe32]]></dtreturnedformodificationbyname>
+         <dtreturnedformodificationbyemail><![CDATA[joe.doe@jdoe.com]]></dtreturnedformodificationbyemail>
+         <dtreturnedformodificationprimaryrole><![CDATA[L2 Support]]></dtreturnedformodificationprimaryrole>
+         <dtreturnedformodificationmgrname><![CDATA[Joe Doe2]]></dtreturnedformodificationmgrname>
+         <dtreturnedformodificationcomment><![CDATA[need correction]]></dtreturnedformodificationcomment>
+      </coveo:metadata>
+   </url>
+</urlset>
