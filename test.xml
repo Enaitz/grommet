@@ -5,34 +5,34 @@
       <lastmod>2017-11-28</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-      <modificationdate>2017-11-28</modificationdate>
-         <dtproblemnodeid><![CDATA[21]]></dtproblemnodeid>
-         <dtproblemnodename><![CDATA[GH SOPs]]></dtproblemnodename>
-         <dtnodetypeid><![CDATA[5]]></dtnodetypeid>
-         <dtnodetypename><![CDATA[Problem]]></dtnodetypename>
-         <dtnodetypecode><![CDATA[PROBLEM]]></dtnodetypecode>
-         <dtpathtonode><![CDATA[This is a test -&gt; AWE -&gt; Accounts -&gt; Enhanced -&gt; GreyHound -&gt; GH SOPs]]></dtpathtonode>
-         <dtnodestatusid><![CDATA[5]]></dtnodestatusid>
-         <dtnodestatusname><![CDATA[Reviewed]]></dtnodestatusname>
-         <dtnotestatuscode><![CDATA[R]]></dtnotestatuscode>
-         <dtisrestricted><![CDATA[NO]]></dtisrestricted>
-         <dtdaystoexpiry><![CDATA[0]]></dtdaystoexpiry>
-         <dttotalnodesunder><![CDATA[8]]></dttotalnodesunder>
-         <dtrootnodeid><![CDATA[2]]></dtrootnodeid>
-         <dtrootnodename><![CDATA[AWE]]></dtrootnodename>
-         <dtisrootsecured><![CDATA[YES]]></dtisrootsecured>
-         <dtispublic><![CDATA[NO]]></dtispublic>
-         <dtmainnodeid><![CDATA[8]]></dtmainnodeid>
-         <dtmainnodename><![CDATA[Accounts]]></dtmainnodename>
-         <dtcreateddate><![CDATA[2017-11-28T17:41:53.593]]></dtcreateddate>
-         <dtcreatedbyempid><![CDATA[999999]]></dtcreatedbyempid>
-         <dtcreatedbyname><![CDATA[Joe Doe]]></dtcreatedbyname>
-         <dtcreatedbemail><![CDATA[joe.doe@jdoe.com]]></dtcreatedbemail>
-         <dtcreatprimaryrole><![CDATA[Business Process Engineering/Quality]]></dtcreatprimaryrole>
-         <dtcreatormgrempid><![CDATA[999999]]></dtcreatormgrempid>
-         <dtcreatormgrname><![CDATA[Joe Doe2]]></dtcreatormgrname>
-         <dtcreatormgrname2><![CDATA[Joe Doe2]]></dtcreatormgrname2>
-         <dtcreatormgremail><![CDATA[joe.doe2@jdoe.com]]></dtcreatormgremail>
+		 <modificationdate>2017-11-28</modificationdate>
+         <dtproblemnodeid>21</dtproblemnodeid>
+         <dtproblemnodename>GH SOPs</dtproblemnodename>
+         <dtnodetypeid>5</dtnodetypeid>
+         <dtnodetypename>Problem</dtnodetypename>
+         <dtnodetypecode>PROBLEM</dtnodetypecode>
+         <dtpathtonode>This is a test -&gt; AWE -&gt; Accounts -&gt; Enhanced -&gt; GreyHound -&gt; GH SOPs</dtpathtonode>
+         <dtnodestatusid>5</dtnodestatusid>
+         <dtnodestatusname>Reviewed</dtnodestatusname>
+         <dtnotestatuscode>R</dtnotestatuscode>
+         <dtisrestricted>NO</dtisrestricted>
+         <dtdaystoexpiry>0</dtdaystoexpiry>
+         <dttotalnodesunder>8</dttotalnodesunder>
+         <dtrootnodeid>2</dtrootnodeid>
+         <dtrootnodename>AWE</dtrootnodename>
+         <dtisrootsecured>YES</dtisrootsecured>
+         <dtispublic>NO</dtispublic>
+         <dtmainnodeid>8</dtmainnodeid>
+         <dtmainnodename>Accounts</dtmainnodename>
+         <dtcreateddate>2017-11-28T17:41:53.593</dtcreateddate>
+         <dtcreatedbyempid>999999</dtcreatedbyempid>
+         <dtcreatedbyname>Joe Doe</dtcreatedbyname>
+         <dtcreatedbemail>joe.doe@jdoe.com</dtcreatedbemail>
+         <dtcreatprimaryrole>Business Process Engineering/Quality</dtcreatprimaryrole>
+         <dtcreatormgrempid>999999</dtcreatormgrempid>
+         <dtcreatormgrname>Joe Doe2</dtcreatormgrname>
+         <dtcreatormgrname2>Joe Doe2</dtcreatormgrname2>
+         <dtcreatormgremail>joe.doe2@jdoe.com</dtcreatormgremail>
       </coveo:metadata>
    </url>
    <url>
@@ -40,58 +40,58 @@
       <lastmod>2020-08-05</lastmod>
       <priority>0.5</priority>
       <coveo:metadata>
-      <modificationdate>2020-08-05</modificationdate>
-         <dtproblemnodeid><![CDATA[128710]]></dtproblemnodeid>
-         <dtproblemnodename><![CDATA[5.20.01 after flm firmware upgrade standby composer not joining cluster]]></dtproblemnodename>
-         <dtnodetypeid><![CDATA[5]]></dtnodetypeid>
-         <dtnodetypename><![CDATA[Problem]]></dtnodetypename>
-         <dtnodetypecode><![CDATA[PROBLEM]]></dtnodetypecode>
-         <dtpathtonode><![CDATA[Decision Root -&gt; Compute -&gt; Synergy -&gt; Synergy Composer / OneView -&gt; 5.20.01 after flm firmware upgrade standby composer not joining cluster]]></dtpathtonode>
-         <dtnodestatusid><![CDATA[5]]></dtnodestatusid>
-         <dtnodestatusname><![CDATA[Reviewed]]></dtnodestatusname>
-         <dtnotestatuscode><![CDATA[R]]></dtnotestatuscode>
-         <dtisrestricted><![CDATA[NO]]></dtisrestricted>
-         <dtnextrivewdate><![CDATA[2021-04-14T00:00:00]]></dtnextrivewdate>
-         <dtdaystoexpiry><![CDATA[205]]></dtdaystoexpiry>
-         <dttotalnodesunder><![CDATA[5]]></dttotalnodesunder>
-         <dtrootnodeid><![CDATA[415]]></dtrootnodeid>
-         <dtrootnodename><![CDATA[Compute]]></dtrootnodename>
-         <dtisrootsecured><![CDATA[NO]]></dtisrootsecured>
-         <dtispublic><![CDATA[NO]]></dtispublic>
-         <dtmainnodeid><![CDATA[1691]]></dtmainnodeid>
-         <dtmainnodename><![CDATA[Synergy]]></dtmainnodename>
-         <dtcreateddate><![CDATA[2020-08-04T13:05:01.443]]></dtcreateddate>
-         <dtcreatedbyempid><![CDATA[999999]]></dtcreatedbyempid>
-         <dtcreatedbyname><![CDATA[JOe Doe3]]></dtcreatedbyname>
-         <dtcreatedbemail><![CDATA[joe.doe3@jdoe.com]]></dtcreatedbemail>
-         <dtcreatprimaryrole><![CDATA[L2 Support]]></dtcreatprimaryrole>
-         <dtcreatormgrempid><![CDATA[999999]]></dtcreatormgrempid>
-         <dtcreatormgrname><![CDATA[Joe Doe2]]></dtcreatormgrname>
-         <dtcreatormgrname2><![CDATA[JOe Do2]]></dtcreatormgrname2>
-         <dtcreatormgremail><![CDATA[joe.doe@jdoe.com]]></dtcreatormgremail>
-         <dtmodifieddate><![CDATA[2020-08-05T09:05:39.420]]></dtmodifieddate>
-         <dtmodifiedbyempid><![CDATA[99999]]></dtmodifiedbyempid>
-         <dtmodifiedbyname><![CDATA[Joe Doe3]]></dtmodifiedbyname>
-         <dtmodifiedbyemail><![CDATA[joe.doe@jdoe.com]]></dtmodifiedbyemail>
-         <dtmodiferprimaryrole><![CDATA[L2 Support]]></dtmodiferprimaryrole>
-         <dtmodifiermgrname><![CDATA[Joe Doe2]]></dtmodifiermgrname>
-         <dtsubmittedforreviewdate><![CDATA[2020-08-08T14:32:57.737]]></dtsubmittedforreviewdate>
-         <dtsubmittedforreviewbyempid><![CDATA[99999]]></dtsubmittedforreviewbyempid>
-         <dtsubmittedforreviewbyname><![CDATA[Joe Doe3]]></dtsubmittedforreviewbyname>
-         <dtsubmittedforreviewbyemail><![CDATA[joe.doe@jdoe.com]]></dtsubmittedforreviewbyemail>
-         <dtrevieweddate><![CDATA[2020-08-08T14:34:01.247]]></dtrevieweddate>
-         <dtreviewedbyempid><![CDATA[0009999]]></dtreviewedbyempid>
-         <dtreviewedbyname><![CDATA[Joe Doe4]]></dtreviewedbyname>
-         <dtreviewedbyemail><![CDATA[joe.doe@jdoe.com]]></dtreviewedbyemail>
-         <dtreviewerprimaryrold><![CDATA[L2 Support]]></dtreviewerprimaryrold>
-         <dtreviewermgrname><![CDATA[Joe Doe3]]></dtreviewermgrname>
-         <dtreturnedformodificationdate><![CDATA[2020-08-05T09:03:37.747]]></dtreturnedformodificationdate>
-         <dtreturnedformodificationbyempid><![CDATA[99999]]></dtreturnedformodificationbyempid>
-         <dtreturnedformodificationbyname><![CDATA[Joe Doe32]]></dtreturnedformodificationbyname>
-         <dtreturnedformodificationbyemail><![CDATA[joe.doe@jdoe.com]]></dtreturnedformodificationbyemail>
-         <dtreturnedformodificationprimaryrole><![CDATA[L2 Support]]></dtreturnedformodificationprimaryrole>
-         <dtreturnedformodificationmgrname><![CDATA[Joe Doe2]]></dtreturnedformodificationmgrname>
-         <dtreturnedformodificationcomment><![CDATA[need correction]]></dtreturnedformodificationcomment>
+		 <modificationdate>2020-08-05</modificationdate>
+         <dtproblemnodeid>128710</dtproblemnodeid>
+         <dtproblemnodename>5.20.01 after flm firmware upgrade standby composer not joining cluster</dtproblemnodename>
+         <dtnodetypeid>5</dtnodetypeid>
+         <dtnodetypename>Problem</dtnodetypename>
+         <dtnodetypecode>PROBLEM</dtnodetypecode>
+         <dtpathtonode>Decision Root -&gt; Compute -&gt; Synergy -&gt; Synergy Composer / OneView -&gt; 5.20.01 after flm firmware upgrade standby composer not joining cluster</dtpathtonode>
+         <dtnodestatusid>5</dtnodestatusid>
+         <dtnodestatusname>Reviewed</dtnodestatusname>
+         <dtnotestatuscode>R</dtnotestatuscode>
+         <dtisrestricted>NO</dtisrestricted>
+         <dtnextrivewdate>2021-04-14T00:00:00</dtnextrivewdate>
+         <dtdaystoexpiry>205</dtdaystoexpiry>
+         <dttotalnodesunder>5</dttotalnodesunder>
+         <dtrootnodeid>415</dtrootnodeid>
+         <dtrootnodename>Compute</dtrootnodename>
+         <dtisrootsecured>NO</dtisrootsecured>
+         <dtispublic>NO</dtispublic>
+         <dtmainnodeid>1691</dtmainnodeid>
+         <dtmainnodename>Synergy</dtmainnodename>
+         <dtcreateddate>2020-08-04T13:05:01.443</dtcreateddate>
+         <dtcreatedbyempid>999999</dtcreatedbyempid>
+         <dtcreatedbyname>JOe Doe3</dtcreatedbyname>
+         <dtcreatedbemail>joe.doe3@jdoe.com</dtcreatedbemail>
+         <dtcreatprimaryrole>L2 Support</dtcreatprimaryrole>
+         <dtcreatormgrempid>999999</dtcreatormgrempid>
+         <dtcreatormgrname>Joe Doe2</dtcreatormgrname>
+         <dtcreatormgrname2>JOe Do2</dtcreatormgrname2>
+         <dtcreatormgremail>joe.doe@jdoe.com</dtcreatormgremail>
+         <dtmodifieddate>2020-08-05T09:05:39.420</dtmodifieddate>
+         <dtmodifiedbyempid>99999</dtmodifiedbyempid>
+         <dtmodifiedbyname>Joe Doe3</dtmodifiedbyname>
+         <dtmodifiedbyemail>joe.doe@jdoe.com</dtmodifiedbyemail>
+         <dtmodiferprimaryrole>L2 Support</dtmodiferprimaryrole>
+         <dtmodifiermgrname>Joe Doe2</dtmodifiermgrname>
+         <dtsubmittedforreviewdate>2020-08-08T14:32:57.737</dtsubmittedforreviewdate>
+         <dtsubmittedforreviewbyempid>99999</dtsubmittedforreviewbyempid>
+         <dtsubmittedforreviewbyname>Joe Doe3</dtsubmittedforreviewbyname>
+         <dtsubmittedforreviewbyemail>joe.doe@jdoe.com</dtsubmittedforreviewbyemail>
+         <dtrevieweddate>2020-08-08T14:34:01.247</dtrevieweddate>
+         <dtreviewedbyempid>0009999</dtreviewedbyempid>
+         <dtreviewedbyname>Joe Doe4</dtreviewedbyname>
+         <dtreviewedbyemail>joe.doe@jdoe.com</dtreviewedbyemail>
+         <dtreviewerprimaryrold>L2 Support</dtreviewerprimaryrold>
+         <dtreviewermgrname>Joe Doe3</dtreviewermgrname>
+         <dtreturnedformodificationdate>2020-08-05T09:03:37.747</dtreturnedformodificationdate>
+         <dtreturnedformodificationbyempid>99999</dtreturnedformodificationbyempid>
+         <dtreturnedformodificationbyname>Joe Doe32</dtreturnedformodificationbyname>
+         <dtreturnedformodificationbyemail>joe.doe@jdoe.com</dtreturnedformodificationbyemail>
+         <dtreturnedformodificationprimaryrole>L2 Support</dtreturnedformodificationprimaryrole>
+         <dtreturnedformodificationmgrname>Joe Doe2</dtreturnedformodificationmgrname>
+         <dtreturnedformodificationcomment>need correction</dtreturnedformodificationcomment>
       </coveo:metadata>
    </url>
 </urlset>
